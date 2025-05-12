@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "subject": "Meeting with Client",
+        "sender": "client@example.com",
+        "content": "Let's schedule a meeting to discuss the project.",
+        "priority": 0.0
+    },
+    {
+        "id": 2,
+        "subject": "Newsletter",
+        "sender": "news@example.com",
+        "content": "Latest updates from our team.",
+        "priority": 0.0
+    }
+]
