@@ -1,16 +1,23 @@
 [
     {
         "id": 1,
-        "subject": "Meeting with Client",
+        "subject": "Project Kickoff Meeting",
         "sender": "client@example.com",
-        "content": "Let's schedule a meeting to discuss the project.",
-        "priority": 0.0
+        "content": "Hi team,\n\nI'd like to schedule our project kickoff meeting for next week. Please let me know if Thursday at 10 AM works for everyone.\n\nBest regards,\nJohn Smith",
+        "priority": 0.9
     },
     {
         "id": 2,
-        "subject": "Newsletter",
+        "subject": "Team Sync - Q2 Planning",
+        "sender": "manager@example.com",
+        "content": "Team,\n\nLet's have our quarterly planning sync this Friday at 2 PM. We'll discuss Q2 goals and resource allocation.\n\nAgenda:\n1. Q1 Review\n2. Q2 Objectives\n3. Team Updates\n\nPlease prepare your updates.\n\nRegards,\nSarah",
+        "priority": 0.8
+    },
+    {
+        "id": 3,
+        "subject": "Weekly Newsletter",
         "sender": "news@example.com",
-        "content": "Latest updates from our team.",
-        "priority": 0.0
+        "content": "Your weekly digest of company updates and announcements.",
+        "priority": 0.3
     }
 ]

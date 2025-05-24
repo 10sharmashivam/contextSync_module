@@ -1,10 +1,26 @@
 [
     {
-        "summary": "Project Meeting with client@example.com",
-        "start": "2025-05-13T10:00:00Z"
+        "summary": "Project Kickoff Meeting",
+        "start": "2025-05-13T10:00:00Z",
+        "end": "2025-05-13T11:30:00Z",
+        "location": "Conference Room A",
+        "attendees": ["client@example.com", "team@example.com"],
+        "description": "Initial project kickoff meeting with the client team"
     },
     {
-        "summary": "Team Sync",
-        "start": "2025-05-14T14:00:00Z"
+        "summary": "Team Sync - Q2 Planning",
+        "start": "2025-05-14T14:00:00Z",
+        "end": "2025-05-14T15:30:00Z",
+        "location": "Virtual Meeting Room",
+        "attendees": ["manager@example.com", "team@example.com"],
+        "description": "Quarterly planning sync to discuss Q2 goals and resource allocation"
+    },
+    {
+        "summary": "Weekly Team Standup",
+        "start": "2025-05-15T09:00:00Z",
+        "end": "2025-05-15T09:30:00Z",
+        "location": "Team Room",
+        "attendees": ["team@example.com"],
+        "description": "Regular team standup meeting"
     }
 ]
