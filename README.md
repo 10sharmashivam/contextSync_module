@@ -21,5 +21,5 @@ A prototype for an AI-powered email prioritization system integrated with Google
 4. Run: `npm start`.
 
 ## Demo
-- Backend: `http://localhost:5000`
+- Backend: `http://localhost:5004`
 - Frontend: `http://localhost:3000`
